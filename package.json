@@ -1,0 +1,16 @@
+{
+  "name": "devops",
+  "version": "1.0.0",
+  "description": "Aplicación Demo como parte del curso de DevOps de Platzi",
+  "main": "server.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "ecedenyo",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "mocha": "^5.2.0",
+    "supertest": "^3.3.0"
+  }
+}
